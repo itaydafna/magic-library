@@ -146,6 +146,7 @@ class BookForm extends Component {
 				autoScrollBodyContent={true}
 				open={true}
 				onRequestClose={this.handleClose.bind(this)}
+				repositionOnUpdate={false}
 			>
 				{isLoadingEdit
 					? <LinearProgress mode="indeterminate" />
