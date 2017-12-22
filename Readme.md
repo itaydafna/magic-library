@@ -9,6 +9,6 @@ To run the app locally:
 
 The application will serve on  [http://localhost:3000/#/magic-library](http://localhost:3000/#/magic-library)
 
-A deployed example of the application can be found on this [link](http://rawgit.com/itaydafna/magic-library/gh-pages/index.html#/magic-library)
+A deployed example of the application can be found on this [link](http://acidic-can.surge.sh/#/magic-library)
 
 
